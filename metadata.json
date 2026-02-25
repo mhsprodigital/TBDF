@@ -1,0 +1,5 @@
+{
+  "name": "SGP Auditoria - TB DF",
+  "description": "Electronic Health Record interface for Tuberculosis patient management using SINAN CSV data.",
+  "requestFramePermissions": []
+}
